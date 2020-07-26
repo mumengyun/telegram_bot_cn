@@ -1,1 +1,4 @@
 # telegram_bot_cn
+
+telegram机器人 学习中
+examples目录为telegram_bot示例
